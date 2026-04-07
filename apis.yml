@@ -9,10 +9,9 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Code Quality
   - AI Governance
+  - Code Quality
   - Development Standards
-  - API
 created: '2026-01-02'
 modified: '2026-03-16'
 url: >-
@@ -26,8 +25,8 @@ apis:
       agent follows your rules consistently, across teams and repos.
     humanURL: https://packmind.com/
     tags:
-      - Code Quality
       - AI Governance
+      - Code Quality
       - Development Standards
     properties:
       - type: Documentation
