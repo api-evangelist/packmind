@@ -34,6 +34,12 @@ apis:
 common:
   - type: Website
     url: https://packmind.com/
+  - type: Integrations
+    url: https://packmind.com/integrations/
+integrations:
+  - name: Packmind
+  - name: VS Code<br>
+  - name: Visual Studio<br>
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
