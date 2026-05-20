@@ -32,6 +32,10 @@ apis:
       - type: Documentation
         url: https://packmind.com/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/PackmindHub
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/packmind
   - type: Website
     url: https://packmind.com/
   - type: Integrations
